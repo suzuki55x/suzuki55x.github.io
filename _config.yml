@@ -1,6 +1,6 @@
 # Site settings
 title: Takahito SUZUKI
-email: st09d18@icloud.com
+# email: st09d18
 url: https://suzuki55x.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "Elixir/Phoenix, PHP/Laravel, JavaScript, Rust, C/C++, Dart/Flutter, Verilog HDL, PIC, mbed, Arduino, FPGA, ..."
@@ -17,7 +17,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+# contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
